@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "AppSyncEnvOneSandbox",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "D:\\0.Sources\\3.Phoenix\\Test-amplify-env\\env-one\\amplify\\backend\\api\\AppSyncEnvOneSandbox\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
